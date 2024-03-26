@@ -8,3 +8,5 @@ PW3: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW3.ipyn
 PW4: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW4.ipynb
 
 PW5: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW5.ipynb
+
+PW6: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW6.ipynb
