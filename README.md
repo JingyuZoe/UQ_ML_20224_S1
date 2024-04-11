@@ -10,3 +10,6 @@ PW4: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW4.ipyn
 PW5: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW5.ipynb
 
 PW6: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW6.ipynb
+
+PW7: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW7_PyTorch_Version.ipynb
+    https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW7_sklearn_Version.ipynb
