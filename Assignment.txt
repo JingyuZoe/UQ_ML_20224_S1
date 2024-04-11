@@ -1,3 +1,4 @@
+
 Assignment report:
 
 1. Define task: 
@@ -16,9 +17,9 @@ Assignment report:
 4.Results:
 	Criteria: MSE? R^2? Confusion matrix?
 	Visualisation:  regression results and the classification decision boundaries
-	If you are working on high demintional data you may need PCA for visualisation
+	If you are working on high dimensional data you may need PCA for visualisation
 5.Other information:
-	Uasful information you got
+	Useful information you got
 	Or any enhancements to the model
 6.Conclusion:
 	What model you used to accomplish what task and the overall performance.
