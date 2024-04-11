@@ -1,0 +1,26 @@
+https://github.com/nathasha-naranpanawa/COMP4702_2024/tree/main
+
+Assignment report:
+
+1. Define task: 
+	Classification or regression
+	Input data , predicted data
+2. Data analysis:
+	What the data look like?
+	How many
+	Columns and rows
+	Missing data and how to processing that. Why
+3. Model:
+	Structure and equations 
+	Why you use this/those model?
+	Loss function
+	Regularisation
+4.Results:
+	Criteria: MSE? R^2? Confusion matrix?
+	Visualisation:  regression results and the classification decision boundaries
+	If you are working on high demintional data you may need PCA for visualisation
+5.Other information:
+	Uasful information you got
+	Or any enhancements to the model
+6.Conclusion:
+	What model you used to accomplish what task and the overall performance.
