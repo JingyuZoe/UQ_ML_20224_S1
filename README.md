@@ -13,3 +13,5 @@ PW6: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW6.ipyn
 
 PW7: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW7_PyTorch_Version.ipynb
     https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW7_sklearn_Version.ipynb
+
+PW8：https://colab.research.google.com/drive/1N_dq8vq3sVy9VGDDdf7oJZozAJcw1u3D?usp=sharing
