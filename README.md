@@ -18,3 +18,5 @@ PW8：https://colab.research.google.com/drive/1N_dq8vq3sVy9VGDDdf7oJZozAJcw1u3D?
      https://colab.research.google.com/drive/1Mjz50AmTFA2goSdOS656ERAOiQSk-NU9
 
 PW10: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW10.ipynb
+
+PW11: https://github.com/nathasha-naranpanawa/COMP4702_2024/blob/main/PracW11.ipynb
