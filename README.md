@@ -1,4 +1,4 @@
-# UQ_ML_20224_S1
+# UQ_ML_2025_S1
 Here are some examples to help you with the demo problem.
 
 PW2: https://github.com/JingyuZoe/UQ_ML_20224_S1/blob/main/Prac1.ipynb
